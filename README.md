@@ -1,5 +1,4 @@
-# demo-markdown2
-Petite démo de markdown (Cours de Domaines Multimédias)
+*Premier essai de codage, dans le cadre du cours Domaines Multimédias (2582-101MO)*
 # La Team du Lundi
 ## Définition
 La *Team du Lundi* est le nom donné à un **collectif de streameurs et streameuses** qui se réunissent **tous les lundi soirs** pour jouer à des jeux ensemble, formé en 2020 durant le confinement. Le nom "Team du Lundi" n'a jamais été officialisé, mais est majoritairement utilisé par les fans pour les définir. 
